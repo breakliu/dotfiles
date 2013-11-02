@@ -1,0 +1,13 @@
+[user]
+	name = imlcl
+	email = slackcode@gmail.com
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
+  ui = auto
+[format]
+  pretty=format:%C(yellow)%h%Creset -%C(red)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset
+[merge]
+  tool = vimdiff
